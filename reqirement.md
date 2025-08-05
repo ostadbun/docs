@@ -12,9 +12,9 @@ tech:
         ts
         axios
         shadcn !!
+
 budget:
     Database
     server
     client
-    
 ```
