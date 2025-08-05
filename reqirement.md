@@ -8,8 +8,8 @@ tech:
         postgresSql
     client:
         react
-        next
-        ts
+        tailwind css
+        typescript
         axios
         shadcn !!
 budget:
