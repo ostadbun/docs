@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.6">
   <diagram id="M7pZF3EB_C3V71MbLX9s" name="Page-1">
-    <mxGraphModel dx="528" dy="1481" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1087" dy="1885" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -68,6 +68,9 @@
         <mxCell id="MNiNnEs18O_ILwVvb_e_-34" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" value="every 3 step must&amp;nbsp;&lt;div&gt;have skip&lt;/div&gt;" vertex="1">
           <mxGeometry height="120" width="170" x="530" y="260" as="geometry" />
         </mxCell>
+        <mxCell id="MNiNnEs18O_ILwVvb_e_-60" edge="1" parent="1" source="MNiNnEs18O_ILwVvb_e_-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="MNiNnEs18O_ILwVvb_e_-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="MNiNnEs18O_ILwVvb_e_-35" parent="1" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;" value="" vertex="1">
           <mxGeometry height="120" width="240" x="670" y="630" as="geometry" />
         </mxCell>
@@ -126,6 +129,21 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MNiNnEs18O_ILwVvb_e_-51" edge="1" parent="1" source="MNiNnEs18O_ILwVvb_e_-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.496;entryY=-0.004;entryDx=0;entryDy=0;entryPerimeter=0;" target="MNiNnEs18O_ILwVvb_e_-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MNiNnEs18O_ILwVvb_e_-54" parent="1" style="whiteSpace=wrap;html=1;" value="university" vertex="1">
+          <mxGeometry height="60" width="120" x="500" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="MNiNnEs18O_ILwVvb_e_-55" parent="1" style="whiteSpace=wrap;html=1;" value="lesson" vertex="1">
+          <mxGeometry height="60" width="120" x="730" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="MNiNnEs18O_ILwVvb_e_-56" parent="1" style="whiteSpace=wrap;html=1;" value="profesor" vertex="1">
+          <mxGeometry height="60" width="120" x="960" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="MNiNnEs18O_ILwVvb_e_-61" edge="1" parent="1" source="MNiNnEs18O_ILwVvb_e_-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="MNiNnEs18O_ILwVvb_e_-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MNiNnEs18O_ILwVvb_e_-62" edge="1" parent="1" source="MNiNnEs18O_ILwVvb_e_-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="MNiNnEs18O_ILwVvb_e_-54">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
