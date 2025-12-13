@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.7">
   <diagram id="M7pZF3EB_C3V71MbLX9s" name="Page-1">
-    <mxGraphModel dx="1162" dy="1951" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2510" dy="2316" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -237,6 +237,60 @@
         </mxCell>
         <mxCell id="Q0jzRnGfTIyRYAHQGQ4u-73" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rotation=0;fontSize=6;" value="&lt;h5&gt;&lt;span&gt;auth need&lt;/span&gt;&lt;/h5&gt;" vertex="1">
           <mxGeometry height="20" width="20" x="1150" y="820" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0jzRnGfTIyRYAHQGQ4u-76" edge="1" parent="1" source="Q0jzRnGfTIyRYAHQGQ4u-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Q0jzRnGfTIyRYAHQGQ4u-75" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0jzRnGfTIyRYAHQGQ4u-74" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="rating" vertex="1">
+          <mxGeometry height="80" width="80" x="-420" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0jzRnGfTIyRYAHQGQ4u-78" edge="1" parent="1" source="Q0jzRnGfTIyRYAHQGQ4u-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Q0jzRnGfTIyRYAHQGQ4u-77" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0jzRnGfTIyRYAHQGQ4u-75" parent="1" style="whiteSpace=wrap;html=1;" value="on&lt;div&gt;&amp;nbsp;professor/university&lt;div&gt;page you can rate&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="240" x="-500" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0jzRnGfTIyRYAHQGQ4u-80" edge="1" parent="1" source="Q0jzRnGfTIyRYAHQGQ4u-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Q0jzRnGfTIyRYAHQGQ4u-79" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0jzRnGfTIyRYAHQGQ4u-77" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="click on rate" vertex="1">
+          <mxGeometry height="80" width="80" x="-500" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0jzRnGfTIyRYAHQGQ4u-82" edge="1" parent="1" source="Q0jzRnGfTIyRYAHQGQ4u-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Q0jzRnGfTIyRYAHQGQ4u-81" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0jzRnGfTIyRYAHQGQ4u-83" connectable="0" parent="Q0jzRnGfTIyRYAHQGQ4u-82" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="no" vertex="1">
+          <mxGeometry relative="1" x="-0.0703" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q0jzRnGfTIyRYAHQGQ4u-85" edge="1" parent="1" source="Q0jzRnGfTIyRYAHQGQ4u-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Q0jzRnGfTIyRYAHQGQ4u-84" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-305" y="410" />
+              <mxPoint x="-430" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q0jzRnGfTIyRYAHQGQ4u-86" connectable="0" parent="Q0jzRnGfTIyRYAHQGQ4u-85" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="yes" vertex="1">
+          <mxGeometry relative="1" x="-0.2245" y="3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q0jzRnGfTIyRYAHQGQ4u-79" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="you passed with this professor ?/&lt;br&gt;are u on this university?" vertex="1">
+          <mxGeometry height="170" width="140" x="-360" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0jzRnGfTIyRYAHQGQ4u-81" parent="1" style="whiteSpace=wrap;html=1;" value="your rate is register&amp;nbsp;&lt;div&gt;but have little effect&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="-170" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0jzRnGfTIyRYAHQGQ4u-88" edge="1" parent="1" source="Q0jzRnGfTIyRYAHQGQ4u-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Q0jzRnGfTIyRYAHQGQ4u-87" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0jzRnGfTIyRYAHQGQ4u-84" parent="1" style="whiteSpace=wrap;html=1;" value="pls enter some data" vertex="1">
+          <mxGeometry height="60" width="120" x="-520" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0jzRnGfTIyRYAHQGQ4u-87" parent="1" style="whiteSpace=wrap;html=1;" value="regester with normal effect" vertex="1">
+          <mxGeometry height="60" width="120" x="-330" y="460" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
